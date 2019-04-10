@@ -15,7 +15,7 @@ import com.project.Pom.LoginPOM;
 import com.project.util.DriverFactory;
 import com.project.util.DriverNames;
 
-public class TestCase {
+public class LoginTest {
 	
 	private WebDriver driver;
 	private String baseUrl;
